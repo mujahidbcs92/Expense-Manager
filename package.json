@@ -1,6 +1,6 @@
 {
   "homepage": "https://mujahidbcs92.github.io/expense-manager/",
-  "name": "expense-manager",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
