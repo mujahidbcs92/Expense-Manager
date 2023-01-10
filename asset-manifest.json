@@ -1,0 +1,13 @@
+{
+  "main.css": "/expense-manager/static/css/main.1f2b3017.chunk.css",
+  "main.js": "/expense-manager/static/js/main.f04c74ea.chunk.js",
+  "main.js.map": "/expense-manager/static/js/main.f04c74ea.chunk.js.map",
+  "static/js/1.96e4d67c.chunk.js": "/expense-manager/static/js/1.96e4d67c.chunk.js",
+  "static/js/1.96e4d67c.chunk.js.map": "/expense-manager/static/js/1.96e4d67c.chunk.js.map",
+  "runtime~main.js": "/expense-manager/static/js/runtime~main.23ba9fe6.js",
+  "runtime~main.js.map": "/expense-manager/static/js/runtime~main.23ba9fe6.js.map",
+  "static/css/main.1f2b3017.chunk.css.map": "/expense-manager/static/css/main.1f2b3017.chunk.css.map",
+  "index.html": "/expense-manager/index.html",
+  "precache-manifest.82af4881416f8edda0e95baa46378294.js": "/expense-manager/precache-manifest.82af4881416f8edda0e95baa46378294.js",
+  "service-worker.js": "/expense-manager/service-worker.js"
+}
